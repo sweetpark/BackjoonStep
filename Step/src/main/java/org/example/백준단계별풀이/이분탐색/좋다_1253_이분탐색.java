@@ -1,4 +1,4 @@
-package org.example.백준단계별풀이.투포인터;
+package org.example.백준단계별풀이.이분탐색;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,10 @@ import java.util.StringTokenizer;
 
 public class 좋다_1253_이분탐색 {
     /***
-     * 이분탐색
+     * 이분탐색 (Binary Search)
+     * https://velog.io/@kimdukbae/%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-Binary-Search"
+     * 문제
+     * https://www.acmicpc.net/problem/1253
      */
     static int[] arr;
     static int N;

@@ -8,6 +8,11 @@ import java.util.StringTokenizer;
 public class 좋다_1253_투포인터 {
     /***
      * 투포인터
+     * https://adjh54.tistory.com/384
+     *
+     * 문제
+     * https://www.acmicpc.net/problem/1253
+     *
      */
     public static void main(String[] args) throws Exception {
 
