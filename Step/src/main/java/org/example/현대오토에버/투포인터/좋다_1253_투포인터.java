@@ -1,4 +1,4 @@
-package org.example.백준단계별풀이.투포인터;
+package org.example.현대오토에버.투포인터;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

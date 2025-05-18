@@ -1,4 +1,4 @@
-package org.example.백준단계별풀이.DP;
+package org.example.현대오토에버.DP;
 
 import java.io.BufferedReader;
 import java.io.IOException;

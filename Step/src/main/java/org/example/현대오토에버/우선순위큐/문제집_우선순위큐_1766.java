@@ -1,4 +1,4 @@
-package org.example.백준단계별풀이.우선순위큐;
+package org.example.현대오토에버.우선순위큐;
 
 
 import java.io.BufferedReader;
